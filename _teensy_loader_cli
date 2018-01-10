@@ -1,5 +1,11 @@
 #compdef teensy_loader_cli
 
+# Copyright (C) 2018 Paul Seyfert
+#
+# This software is distributed under the terms of the GNU General Public License
+# version 3 (GPL Version 3), copied verbatim in the file LICENSE.
+
+
 _list_controllers() {
   # this is ugly, see http://zsh.sourceforge.net/Doc/Release/Expansion.html
   # inside out this does
