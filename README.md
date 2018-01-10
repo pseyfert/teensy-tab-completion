@@ -30,3 +30,6 @@ somewhere before `autoload -Uz compinit; compinit`. (I guess this depends strong
 ## comment
 
 There may be better ways for future maintenance and pulling updates. Also you might already have custom completions or are looking for system wide installations, … or I might port the completion to other completion repositories. So be aware this is just one of many options of using the completion. Feel free to implement a better one.
+
+
+[![Licence: GPL v3](https://img.shields.io/github/license/pseyfert/teensy-tab-completion.svg)](LICENSE)
